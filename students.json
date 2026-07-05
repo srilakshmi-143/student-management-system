@@ -1,0 +1,16 @@
+[
+    {
+        "roll": "566",
+        "name": "sri",
+        "age": "20",
+        "department": "cse",
+        "cgpa": "8.5"
+    },
+    {
+        "roll": "563",
+        "name": "anjali",
+        "age": "20",
+        "department": "cse",
+        "cgpa": "7.7"
+    }
+]
